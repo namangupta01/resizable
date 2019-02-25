@@ -1,5 +1,5 @@
 {
-  "name": "re-sizable",
+  "name": "@namangupta/resizable",
   "version": "1.0.0",
   "description": "JavaScript library to resize HTML elements",
   "main": "resize.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/namangupta01/re-sizable.git"
+    "url": "git+https://github.com/namangupta01/resizable.git"
   },
   "keywords": [
     "JS",
@@ -22,7 +22,7 @@
   "author": "Naman Gupta",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/namangupta01/re-sizable/issues"
+    "url": "https://github.com/namangupta01/resizable/issues"
   },
-  "homepage": "https://github.com/namangupta01/re-sizable#readme"
+  "homepage": "https://github.com/namangupta01/resizable#readme"
 }
