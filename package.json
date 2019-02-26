@@ -1,8 +1,8 @@
 {
   "name": "@namangupta/resizable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript library to resize HTML elements",
-  "main": "resize.js",
+  "main": "js/resize.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

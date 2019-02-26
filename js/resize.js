@@ -66,10 +66,12 @@ function makeResizableElement(id, options = {}) {
 
         });
         element.elementRightActive = elementRightActive;
-        oldClientLeft = element.getBoundingClientRect().left
+        oldClientLeft = element.getBoundingClientRect().left;
         element.style.left =  element.offsetLeft + "px";
         element.defaultPosition = element.style.position;
         element.defaultLeft = element.style.left;
+        element.previousWidth = element.getBoundingClientRect().width;
+        element.style.width = element.previousWidth;
         element.style.position = "absolute";
         elements.push(element);
         bindResizableEvents(element);
