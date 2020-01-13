@@ -1,6 +1,6 @@
 {
   "name": "@namangupta/resizable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JavaScript library to resize HTML elements",
   "main": "js/resize.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "resizable-elements"
   ],
   "author": "Naman Gupta",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/namangupta01/resizable/issues"
   },
